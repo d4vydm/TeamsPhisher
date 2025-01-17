@@ -1,3 +1,4 @@
-AdeleV@myreallycooltotallyrealtenant.onmicrosoft.com
-AlexW@myreallycooltotallyrealtenant.onmicrosoft.com
-tomdog@myreallycooltotallyrealtenant.onmicrosoft.com
+username,name,sharepoint,teamSmtpAddress,channelname,guest,mention
+AdeleV@myreallycooltotallyrealtenant.onmicrosoft.com,,,,,,
+AlexW@myreallycooltotallyrealtenant.onmicrosoft.com,AlexW,myreallycooltotallyrealtenant,myreallycoolteam@domain.com,General,False,False
+tomdog@myreallycooltotallyrealtenant.onmicrosoft.com,tomdog,myreallycooltotallyrealtenant,myreallycoolteam@domain.com,General,False,False
