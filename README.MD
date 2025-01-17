@@ -34,8 +34,16 @@
                     | ||  __/| (_| || | | | | |\__ \| |    | | | || |\__ \| | | ||  __/| |   
                     \_  \___| \__,_||_| |_| |_||___/\_|    |_| |_||_||___/|_| |_| \___||_|   
                   
-                    v1.2 developed by @Octoberfest73 (https://github.com/Octoberfest7)
+                    v1.3 developed by @D4vyDM (https://github.com/d4vydm)
+                    Original by @Octoberfest73 (https://github.com/Octoberfest7)
+
 ```
+
+
+
+⚠️ **Note:** This documentation is for TeamsPhisher v1.2. It has not been updated for the latest v1.3 release yet.
+
+
 # Introduction 
 TeamsPhisher is a Python3 program that facilitates the delivery of phishing messages and attachments to Microsoft Teams users whose organizations allow external communications.
 
